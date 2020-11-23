@@ -1,0 +1,15 @@
+{
+  "name": "vm2-node",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "vm": "ts-node-dev src/vm.ts",
+    "vm2": "ts-node-dev src/vm2.ts"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.9",
+    "ts-node-dev": "^1.0.0",
+    "typescript": "^4.1.2",
+    "vm2": "^3.9.2"
+  }
+}
