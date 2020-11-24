@@ -20,7 +20,7 @@ and comparing security with `runc`
 - once you're in the container use `yarn ts-node [filename]`
 
 
-# Appenix
+# Appendix
 
 - [Docker vs. containerd vs. Nabla vs. Kata](https://www.inovex.de/blog/containers-docker-containerd-nabla-kata-firecracker/)
 
